@@ -93,71 +93,9 @@ I enjoy working with Python, data analysis, machine learning, AI applications, O
 
 ---
 
-# 🚀 Featured Projects
-
-### 🏥 Patient 360 Analytics Dashboard
-
-A full-stack healthcare analytics platform designed to transform patient data into interactive dashboards and meaningful insights.
-
-**Tech Stack:** FastAPI • React • TypeScript • SQLite • Plotly
-
-🔗 [View Project →](https://github.com/HuzaifaAIDev/patient360-analytics-dashboard)
-
----
-
-### 📄 AI Document Verification System
-
-An AI-powered document verification platform that combines document processing, OCR, backend APIs, and automated verification workflows.
-
-**Tech Stack:** Python • FastAPI • React • OCR • PostgreSQL
-
-🔗 [View Project →](https://github.com/HuzaifaAIDev/document-verification-system)
-
----
-
-### 🏥 AI Medical Claim Summary Generator
-
-An AI-powered application for extracting information from medical documents and generating structured claim summaries.
-
-**Tech Stack:** Python • OCR • AI APIs • Document Processing
-
-🔗 [View Project →](https://github.com/HuzaifaAIDev/AI-Medical-Claim-Summary-Generator)
-
----
-
-### 🔍 Same File Detector
-
-A document-processing application designed to identify duplicate or highly similar files using OCR and text similarity techniques.
-
-**Tech Stack:** Python • OCR • Text Processing • Fuzzy Matching
-
-🔗 [View Project →](https://github.com/HuzaifaAIDev/Same_file_detector)
-
----
-
-### 📊 Loan Risk Analysis
-
-A data analysis project focused on exploring loan-related data, identifying patterns, and analyzing factors associated with credit risk.
-
-**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn
-
-🔗 [View Project →](https://github.com/HuzaifaAIDev/loan-risk-analysis)
-
----
-
-### 🩺 Diabetes Risk Factor Analysis
-
-An exploratory data analysis project investigating demographic, lifestyle, and clinical factors associated with diabetes.
-
-**Tech Stack:** Python • Pandas • NumPy • Seaborn • Matplotlib
-
-🔗 [View Project →](https://github.com/HuzaifaAIDev/diabetes-risk-factor-analysis)
-
----
-
 # 📜 Certifications
 
-### IBM
+### 🏆 IBM
 
 **Python Programming**
 
@@ -165,7 +103,7 @@ An exploratory data analysis project investigating demographic, lifestyle, and c
 
 ---
 
-### Kaggle
+### 📊 Kaggle
 
 | Certificate           | Credential                                                       |
 | --------------------- | ---------------------------------------------------------------- |
@@ -176,7 +114,7 @@ An exploratory data analysis project investigating demographic, lifestyle, and c
 
 ---
 
-### DigiSkills
+### 🎓 DigiSkills
 
 **AI using Python**
 
@@ -233,6 +171,8 @@ I'm interested in developing my career in:
 # 📫 Connect With Me
 
 📧 **Email:** [muhammadhuzaifawd1st@gmail.com](mailto:muhammadhuzaifawd1st@gmail.com)
+
+📱 **Phone:** 0326-3090980
 
 📍 **Karachi, Pakistan**
 
