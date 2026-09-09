@@ -22,6 +22,21 @@ I enjoy working with Python, data analysis, machine learning, AI applications, O
 
 ---
 
+## 💼 Experience
+
+### 📊 Data Analytics Virtual Experience
+
+**Deloitte — Data Analytics**
+
+- Completed a practical Data Analytics virtual experience program.
+- Analyzed business data according to client requirements.
+- Built an interactive **Tableau dashboard** to present key insights and visualizations.
+- Used **Excel formulas** to process and analyze data based on client requirements.
+- Applied data cleaning, analysis, and visualization techniques to support data-driven decision-making.
+- Translated client requirements into practical data analysis and dashboard solutions.
+
+---
+
 ## 🧠 Areas of Interest
 
 - Artificial Intelligence
@@ -66,14 +81,14 @@ I enjoy working with Python, data analysis, machine learning, AI applications, O
 ### 📊 Data Analytics & Visualization
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 - Data Analysis
 - Data Cleaning
 - Data Visualization
 - Interactive Dashboards
 - Dashboard Development
+- Excel Formulas
 - Business Data Analysis
 - Data-driven Insights
 
@@ -122,9 +137,7 @@ I enjoy working with Python, data analysis, machine learning, AI applications, O
 
 **Data Analytics**
 
-Completed Deloitte's Data Analytics program with practical exposure to data analysis, data visualization, and dashboard development using **Tableau**.
-
-Also completed a practical **Tableau data analytics task** involving data visualization and analytical insights.
+Completed a practical Data Analytics virtual experience involving data analysis, visualization, client requirements, Excel-based data processing, and Tableau dashboard development.
 
 [View Certificate →](./certificates/Deloitte/Data_Analytics_Deloitte.png)
 
